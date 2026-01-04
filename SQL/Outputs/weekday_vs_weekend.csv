@@ -1,0 +1,5 @@
+"domain","is_weekend","records","avg_steps","avg_active_minutes","avg_sleep_hours"
+Activity,Weekend,245,7551,226.6,
+Activity,Weekday,695,7669,227.9,
+Sleep,Weekend,112,,,7.26
+Sleep,Weekday,298,,,6.88

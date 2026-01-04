@@ -1,0 +1,11 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raw data (optional but recommended)
+Fitabase Data*/
